@@ -5,7 +5,7 @@
 Данная методичка подготовлена Soup-o-Stat для подготовки к зачету 2024 года по дисциплене "Вычислительная математика" за второй курс. Ниже преведены материалы, из которых я брал информацию
 
  - [Список тем](https://github.com/Soup-o-Stat/Computational-mathematics-a-test/blob/main/Список_тем.pdf)
- - [Лекции]()
+ - [Лекции](https://github.com/Soup-o-Stat/Computational-mathematics-a-test/tree/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8)
 
  ## Содержание
  - [Погрешности]()
